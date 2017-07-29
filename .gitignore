@@ -100,3 +100,4 @@ ENV/
 .mypy_cache/
 
 .ipynb_checkpoints
+out
